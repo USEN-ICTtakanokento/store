@@ -8,7 +8,8 @@ db_connect.php
 $db_info = [
     "user" => "root",
     "pass" => "",
-    "host" => "localhost",
+    "host" => "takano-rds.cutwzi4upm5z.us-west-1.rds.amazonaws.com",
+    /*"host" => "localhost",*/
     "dbname" => "team1"
 ];
 
